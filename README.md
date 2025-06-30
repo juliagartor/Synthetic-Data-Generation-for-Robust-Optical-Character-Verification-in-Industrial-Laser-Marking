@@ -1,6 +1,6 @@
 # 🧠 Synthetic Data Generation for Robust Optical Character Verification in Industrial Laser Marking
 
-![Generated Sample](img/qualitative_RESULTS.png)
+![Generated Sample](documentation/repository_figures/fig_qualitative_results.png)
 
 This repository contains the full implementation of the master's thesis project **"Synthetic Data Generation for Robust Optical Character Verification in Industrial Laser Marking"**. The work focuses on improving the accuracy and scalability of industrial Optical Character Verification (OCV) systems using synthetic data generated via fine-tuned diffusion models.
 
