@@ -1,6 +1,6 @@
 # 🧠 Synthetic Data Generation for Robust Optical Character Verification in Industrial Laser Marking
 
-![Generated Sample](docs/repository_figures/fig_qualitative_results.png)
+![Generated Sample](img/fig_qualitative_results.png)
 
 ---
 
@@ -42,17 +42,18 @@ The synthetic dataset enables training of robust OCV models without costly real-
 ```bash
 Synthetic-Data-Generation-for-Robust-OCV/
 ├── data/ # Dataset samples (real and synthetic)
-│ ├── real/ # Original industrial images
-│ └── synthetic/ # Generated samples
+│ ├── real/ # Original industrial images subset
+│ └── synthetic/ # Generated samples subsets
 ├── models/ # Pretrained model download scripts 
 │ ├── controlnet/ # Fine-tuned ControlNet checkpoint
 │ └── yolov11/ # Trained detection model
 ├── notebooks/ # Jupyter notebooks for exploration
+│ ├── data_generation/ # Generative Approach Exploration
+│ └── code_detection/ # Detection and Recognition Exploration
 ├── scripts/ # Main processing scripts
 │ ├── data_generation/ # Synthetic data pipeline
-│ ├── training/ # Model training scripts
-│ └── evaluation/ # Performance assessment
-├── configs/ # Configuration files
+│ ├── code_detection/ # Detection pipeline
+│ └── training/ # Model training scripts
 ├── docs/ # Project documentation
 └── img/ # Figures and visualizations
 ```
