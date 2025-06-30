@@ -52,6 +52,7 @@ Synthetic-Data-Generation-for-Robust-OCV/
 │ └── code_detection/ # Detection and Recognition Exploration
 ├── scripts/ # Main processing scripts
 │ ├── data_generation/ # Synthetic data pipeline
+│ ├── code_detection/ # Detection pipeline
 │ └── training/ # Model training scripts
 ├── docs/ # Project documentation
 └── img/ # Figures and visualizations
