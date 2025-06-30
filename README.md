@@ -53,11 +53,11 @@ Synthetic-Data-Generation-for-Robust-OCV/
 │ ├── controlnet/ # Fine-tuned ControlNet checkpoint
 │ └── yolov11/ # Trained detection model
 ├── notebooks/ # Jupyter notebooks for exploration
-│ ├── data_generation/ # Generative Approach Exploration
-│ └── code_detection/ # Detection and Recognition Exploration
+│ ├── code_detection/ # Detection and Recognition Exploration 
+│ └── data_generation/ # Generative Approach Exploration
 ├── scripts/ # Main processing scripts
+│ ├── code_detection/ # Detection pipeline 
 │ ├── data_generation/ # Synthetic data pipeline
-│ ├── code_detection/ # Detection pipeline
 │ └── training/ # Model training scripts
 ├── docs/ # Project documentation
 └── img/ # Figures and visualizations
