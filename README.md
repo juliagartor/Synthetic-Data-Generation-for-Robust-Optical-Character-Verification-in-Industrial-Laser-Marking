@@ -12,7 +12,12 @@ This project develops a synthetic data generation pipeline to enhance Optical Ch
 - Limited defect examples (misplacements, beam distortions, surface defects)
 - Restricted background and scale diversity
 
+![Sampling](img/sampling_with_controlnet_enhance.png)
+
 The synthetic dataset enables training of robust OCV models without costly real-world data collection. A YOLOv11-based detection pipeline demonstrates the utility of synthetic data for character recognition and defect detection.
+
+![Generated Sample](img/YOLO_OUT.png)
+
 
 ---
 
