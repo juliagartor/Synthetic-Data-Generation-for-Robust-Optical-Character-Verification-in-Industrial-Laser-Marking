@@ -16,7 +16,8 @@ This project develops a synthetic data generation pipeline to enhance Optical Ch
 
 The synthetic dataset enables training of robust OCV models without costly real-world data collection. A YOLOv11-based detection pipeline demonstrates the utility of synthetic data for character recognition and defect detection.
 
-![Generated Sample](img/fig_qualitative_results.png)
+![Generated Sample](img/YOLO_OUT.png)
+
 
 ---
 
