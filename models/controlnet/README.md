@@ -8,4 +8,4 @@ This folder provides links to the fine-tuned ControlNet checkpoint hosted on Hug
 To download via 🤗 `diffusers`:
 ```python
 from diffusers import ControlNetModel
-controlnet = ControlNetModel.from_pretrained("juliagartor/controlnet-industrial-ocv", torch_dtype=torch.float16)
+controlnet = ControlNetModel.from_pretrained("juliagartor/ControlNetXL_LaserCode", torch_dtype=torch.float16)
