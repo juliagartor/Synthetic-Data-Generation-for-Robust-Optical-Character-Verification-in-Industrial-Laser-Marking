@@ -2,8 +2,6 @@
 
 ![Generated Sample](documentation/repository_figures/fig_qualitative_results.png)
 
-This repository contains the full implementation of the **Final Degree Project** titled **"Synthetic Data Generation for Robust Optical Character Verification in Industrial Laser Marking"**. The project introduces a modular, data-centric pipeline for generating realistic synthetic datasets using fine-tuned diffusion models and training an end-to-end YOLOv11-based detection system for traceability and quality assurance in industrial packaging environments.
-
 ---
 
 ## Project Description
