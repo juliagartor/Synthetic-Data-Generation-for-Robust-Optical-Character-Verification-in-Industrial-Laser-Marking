@@ -1,5 +1,6 @@
 # 🧠 Synthetic Data Generation for Robust Optical Character Verification in Industrial Laser Marking
 
+![Sampling](img/sampling_with_controlnet_enhance.png)
 ![Generated Sample](img/fig_qualitative_results.png)
 
 ---
