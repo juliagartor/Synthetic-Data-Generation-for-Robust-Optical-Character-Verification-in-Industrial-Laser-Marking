@@ -42,8 +42,8 @@ The synthetic dataset enables training of robust OCV models without costly real-
 ```bash
 Synthetic-Data-Generation-for-Robust-OCV/
 ├── data/ # Dataset samples (real and synthetic)
-│ ├── real/ # Original industrial images
-│ └── synthetic/ # Generated samples
+│ ├── real/ # Original industrial images subset
+│ └── synthetic/ # Generated samples subsets
 ├── models/ # Pretrained model download scripts 
 │ ├── controlnet/ # Fine-tuned ControlNet checkpoint
 │ └── yolov11/ # Trained detection model
