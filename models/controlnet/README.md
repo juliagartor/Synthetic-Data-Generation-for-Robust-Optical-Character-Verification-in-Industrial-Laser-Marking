@@ -3,7 +3,7 @@
 This folder provides links to the fine-tuned ControlNet checkpoint hosted on Hugging Face.
 
 - **Model Weights:**  
-  [`juliagartor/controlnet-industrial-ocv`](https://huggingface.co/juliagartor/controlnet-industrial-ocv)
+  [`juliagartor/controlnet-industrial-ocv`](https://huggingface.co/juliagartor/ControlNetXL_LaserCode)
 
 To download via 🤗 `diffusers`:
 ```python
